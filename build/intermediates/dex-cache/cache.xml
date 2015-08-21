@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kristiansecor/Desktop/week7/CarmenCrud/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/kristiansecor/Desktop/week7/CarmenCrud/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-f2b29431a51d1d95c9afd3d8c599c0d5e3a39531.jar" />
+    </item>
+    <item
+        jar="/Users/kristiansecor/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/kristiansecor/Desktop/week7/CarmenCrud/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-d832eac1a27a5b25958e56655deb05c8d36c076b.jar" />
+    </item>
+    <item
+        jar="/Users/kristiansecor/Desktop/week7/CarmenCrud/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/kristiansecor/Desktop/week7/CarmenCrud/app/build/intermediates/pre-dexed/debug/classes-5e3ff59a394b041b94efac22192b4f1b3f3dbcc6.jar" />
+    </item>
+    <item
+        jar="/Users/kristiansecor/Desktop/week7/CarmenCrud/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/kristiansecor/Desktop/week7/CarmenCrud/app/build/intermediates/pre-dexed/debug/classes-520306523536d006955722320df960463c5c0545.jar" />
+    </item>
+
+</items>
